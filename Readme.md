@@ -1,3 +1,15 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml.cs](./CS/WpfApplication1/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/WpfApplication1/MainWindow.xaml.vb))
+* [CustomReportDesignerWizardPageFactory.cs](./CS/WpfApplication1/WizardCustomization/CustomReportDesignerWizardPageFactory.cs) (VB: [CustomReportDesignerWizardPageFactory.vb](./VB/WpfApplication1/WizardCustomization/CustomReportDesignerWizardPageFactory.vb))
+* [CustomReportWizardLauncherService.cs](./CS/WpfApplication1/WizardCustomization/CustomReportWizardLauncherService.cs) (VB: [CustomReportWizardLauncherService.vb](./VB/WpfApplication1/WizardCustomization/CustomReportWizardLauncherService.vb))
+* [CustomSelectColumnsPage.cs](./CS/WpfApplication1/WizardCustomization/CustomSelectColumnsPage.cs) (VB: [CustomSelectColumnsPage.vb](./VB/WpfApplication1/WizardCustomization/CustomSelectColumnsPage.vb))
+* [CustomSelectDataMemberPage.cs](./CS/WpfApplication1/WizardCustomization/CustomSelectDataMemberPage.cs) (VB: [CustomSelectDataMemberPage.vb](./VB/WpfApplication1/WizardCustomization/CustomSelectDataMemberPage.vb))
+* [CustomSelectDataSourcePage.cs](./CS/WpfApplication1/WizardCustomization/CustomSelectDataSourcePage.cs) (VB: [CustomSelectDataSourcePage.vb](./VB/WpfApplication1/WizardCustomization/CustomSelectDataSourcePage.vb))
+* [CustomSelectHierarchicalDataSourceColumnsPage.cs](./CS/WpfApplication1/WizardCustomization/CustomSelectHierarchicalDataSourceColumnsPage.cs) (VB: [CustomSelectHierarchicalDataSourceColumnsPage.vb](./VB/WpfApplication1/WizardCustomization/CustomSelectHierarchicalDataSourceColumnsPage.vb))
+* [CustomWelcomePage.cs](./CS/WpfApplication1/WizardCustomization/CustomWelcomePage.cs) (VB: [CustomWelcomePage.vb](./VB/WpfApplication1/WizardCustomization/CustomWelcomePage.vb))
+<!-- default file list end -->
 # How to customize a Report Wizard for WPF
 
 
